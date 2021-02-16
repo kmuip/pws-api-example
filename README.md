@@ -26,9 +26,9 @@
 		"containerName": "Name of the password",
 		"formName": "Existing form"
 	}
-/ [GET] -> Get all containers.
-/:containerId [GET] -> Get specific container password.
-/filter [GET] -> Find password container.
+/ [GET] -> Get all containers.  
+/:containerId [GET] -> Get specific container password.  
+/filter [GET] -> Find password container.  
 #### *body*:
 
     {
