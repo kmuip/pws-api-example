@@ -45,5 +45,5 @@
 ### /ous
 / [GET] -> Get all OUs
 ### /users
-/ [GET] -> Get all users
+/ [GET] -> Get all users  
 /:userId [GET] -> Get specific user by id
