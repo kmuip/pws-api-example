@@ -15,7 +15,7 @@
 		"username": "Username",
 		"password": "Password"
 	}
-/user [GET] -> Returns the current user.
+/user [GET] -> Returns the current user.  
 /logout [POST] -> Performs a logout for the current user.
 ### /containers
 / [POST] -> Create a container.
