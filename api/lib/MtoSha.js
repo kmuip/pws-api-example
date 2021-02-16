@@ -1,0 +1,1 @@
+const forge=require("node-forge");module.exports.sha256=function(e){const o=forge.md.sha256.create();return o.update(e),o.digest().toHex()};

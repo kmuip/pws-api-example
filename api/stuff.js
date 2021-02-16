@@ -1,0 +1,1 @@
+const clientVersion="8.12.0.22707",clientType="PsrApiJs";module.exports.getClientType=(()=>"PsrApiJs"),module.exports.getClientVersion=(()=>clientVersion),module.exports.guidEmpty="00000000-0000-0000-0000-000000000000",module.exports.maxBy=((e,t)=>{let o;if(null==e)return o;for(const l of e){let e;const n=t(l);null!=n&&(void 0===e||n>e)&&(e=n,o=l)}return o});

@@ -1,0 +1,8 @@
+{
+  "env": {
+    "API_URL": "https://passwordsafe-domain.ch/api",
+    "PASSWORD_SECRET": "secret",
+    "PORT": 8000,
+    "JWT_SECRET": "asecret"
+  }
+}

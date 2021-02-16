@@ -1,0 +1,9 @@
+# node_modules
+./api/node_modules
+node_modules
+
+# nodemon
+nodemon.json
+
+# service js
+*-windows-service.js

@@ -1,0 +1,1 @@
+module.exports=(()=>{function e({maintenance:e,multiFactor:t,service:i}){this._serviceClient=i}return e.prototype.getPolicy=function(e){return this._serviceClient.getPolicy(e)},e.prototype.getPolicies=function(){return this._serviceClient.getPolicies()},e.prototype.getCategoryPolicy=function(e){return this._serviceClient.getCategoryPolicy(e)},e})();

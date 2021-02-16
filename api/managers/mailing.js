@@ -1,0 +1,1 @@
+module.exports=(()=>{function e({maintenance:e,multiFactor:t,service:i}){this._serviceClient=i}return e.prototype.isSmtpConfigured=function(){return this._serviceClient.isSmtpConfigured()},e})();
